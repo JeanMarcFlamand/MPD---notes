@@ -9,14 +9,14 @@ These techniques should be implemented when you decide to develop a basic weight
 Source File: BOM some cg calculation scenario - preliminary requirement for weight accounting database.xlsx
 
 File Includes:
-- Worksheets from “Assy A” to “Assy D multiple location”
+- Worksheets from "Assy A" to "Assy D multiple location"
    - Includes the process to calculate properly the CG according to 4 possible scenarios,
-	Assy B instance 1 and Assy B instance 2
-- Worksheet “Assy C”
-  - Is an assembly with partial center of gravity information.
-
-- Worksheet “Assy D multiple location”
-  - Is an assembly with no provided gravity information.
+	 - Worksheets "Assy B instance 1" and "Assy B instance 2"
+       - are the same assybly but they are not located at the same place.
+     - Worksheet “Assy C”
+       - Is an assembly with partial center of gravity information.
+     - Worksheet “Assy D multiple location”
+       - Is an assembly with no provided gravity information.
 
 - Worksheet «Catalog"
   - Includes list of details used in the assemblies “weight and CG calcsheet”. The “Unit Weight Calculated” fields use parameters for calculation. These parameters are often used for unit weight unit weight calc, but they are not the only one used in industries.
